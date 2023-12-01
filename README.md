@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cyril Bationo</h1>
 <h3 align="center">A passionate developer from France</h3>
 
-- 🔭 I’m currently working on **Ocean Communication**
+- 🔭 I am a freelance developer
 
 - 📫 How to reach me **bationo.c@gmail.com**
 
