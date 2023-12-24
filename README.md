@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **bationo.c@gmail.com**
 
-- 🌍 <a href="https://taboniweb.com/" target="_blank">Taboni Web</a>
+- 🌍 <a href="https://taboniweb.com/" target="_blank" rel="noopener noreferrer">Taboni Web</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
